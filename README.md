@@ -6,7 +6,7 @@
 ### 1. Clone Git Repository
 
 Clone the repository to your local machine:
-''' bash 
+bash 
 git clone https://github.com/legend4137/AutoEval-Challenge.git
 cd AutoEval-Challenge '''
 
