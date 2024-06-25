@@ -6,9 +6,9 @@
 ### 1. Clone Git Repository
 
 Clone the repository to your local machine:
-bash 
+
 git clone https://github.com/legend4137/AutoEval-Challenge.git
-cd AutoEval-Challenge '''
+cd AutoEval-Challenge 
 
 ### 2. Download and Extract table-transformer.zip
 
